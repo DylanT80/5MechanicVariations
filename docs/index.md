@@ -1,4 +1,4 @@
-The GitHub repository for this page is at [https://github.com/DylanT80/5MechanicVariations/](https://github.com/DylanT80/5MechanicVariations/) under docs/ folder
+The GitHub repository for this page is at [https://github.com/DylanT80/5MechanicVariations/](https://github.com/DylanT80/5MechanicVariations/) 
 
 The corresponding web page is at [https://DylanT80.github.io/5MechanicVariations/index.html](https://DylanT80.github.io/5MechanicVariations/index.html)
 
